@@ -19,5 +19,8 @@ Performance bottlenecks were identified using K6, Loader.io, and New Relic.
 
 By replicating the database and deploying servers on EC2 instances using NGINX for load balancing, the microservice was scaled to handle 1000 RPS with 0% error rate. All EC2 instances were t2.micro.
 
+![image](https://user-images.githubusercontent.com/82406930/158325816-9227e3e9-6de9-4220-8433-219ebecdc2a5.png)
+
+
 
 
